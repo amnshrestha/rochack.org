@@ -79,7 +79,7 @@ canvas {
 	align-items: center;
 }
 .coverPic {
-	background-image: url("../images/bck0.jpg");
+	background-image: url("../images/newbck0.jpg");
 	background-size: cover;
 	position: absolute;
 	z-index: -1;
@@ -197,6 +197,9 @@ canvas {
 	margin-right: 10px;
 	margin-left: 10px;
 	vertical-align: middle;
+}
+.largest {
+	width: 800px;
 }
 .large {
 	width: 290px;
